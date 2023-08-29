@@ -32,7 +32,7 @@ where my creative journey goes! 🌟</h4>
 
 - 📫 How to reach me **solankitrushen@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_EDiE0aP0i6XMery5iRDiFvTvSD6Yjkh/view?usp=sharing](https://drive.google.com/file/d/1_EDiE0aP0i6XMery5iRDiFvTvSD6Yjkh/view?usp=sharing)
+- 📄 Know about my skills and education [https://drive.google.com/file/d/1_EDiE0aP0i6XMery5iRDiFvTvSD6Yjkh/view?usp=sharing](https://drive.google.com/file/d/1_EDiE0aP0i6XMery5iRDiFvTvSD6Yjkh/view?usp=sharing)
 
 - ⚡ Fun fact **breaking bad fan**
 
