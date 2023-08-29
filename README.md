@@ -26,7 +26,7 @@ where my creative journey goes! 🌟</h4>
 
 - 👨‍💻 All of my projects are available at [https://main--solanki-trushen.netlify.app/](https://main--solanki-trushen.netlify.app/)
 
-- 👨‍💼Working With ForceWebTech As Graphic Designer Intern [https://forcewebtech.com/](https://forcewebtech.com/)
+- 👨‍💼Working With ForceWebTech As Graphic Designer & React Intern [https://forcewebtech.com/](https://forcewebtech.com/)
 
 - 💬 Ask me about **My Designs,Project**
 
