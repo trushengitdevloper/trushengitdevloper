@@ -2,7 +2,7 @@
 <h3 align="center">>Hey there! 👋 I'm a student from India with a bunch of cool skills 🎨💻.<br></h3>
 <h4>
 * I can do graphic design, make logos, create user-friendly stuff for websites, and build the front part of websites 🌐. <br>
-* I'm also good at computer languages like React, Python, C, C++, and Java 🧩. I like drawing stuff ✏️, <br>
+* I'm also good at computer languages like React, Python, C, C++, and Java 🧩. I like drawing stuff ✏️,<br>
 making eye-catching banners 🚩, and creating realistic models 🎯. 
 * Whether it's making a nice logo 🖼️ or building easy-to-use web stuff, I really enjoy using my skills to help out 🚀. 
 * I love working with others 🤝 and learning new stuff all the time 📚. It's going to be fun seeing 
