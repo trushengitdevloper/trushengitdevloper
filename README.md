@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm SOLANKI TRUSHEN</h1>
 <h3 align="center">>Hey there! 👋 I'm a student from India with a bunch of cool skills 🎨💻.<br></h3>
 <h4>
+  
 * I can do graphic design, make logos, create user-friendly stuff for websites, and build the front part of websites 🌐. <br>
+  
 * I'm also good at computer languages like React, Python, C, C++, and Java 🧩. I like drawing stuff ✏️,<br>
 making eye-catching banners 🚩, and creating realistic models 🎯. 
   
