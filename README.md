@@ -4,7 +4,9 @@
 * I can do graphic design, make logos, create user-friendly stuff for websites, and build the front part of websites 🌐. <br>
 * I'm also good at computer languages like React, Python, C, C++, and Java 🧩. I like drawing stuff ✏️,<br>
 making eye-catching banners 🚩, and creating realistic models 🎯. 
-* Whether it's making a nice logo 🖼️ or building easy-to-use web stuff, I really enjoy using my skills to help out 🚀. 
+  
+* Whether it's making a nice logo 🖼️ or building easy-to-use web stuff, I really enjoy using my skills to help out 🚀.<br>
+  
 * I love working with others 🤝 and learning new stuff all the time 📚. It's going to be fun seeing 
 where my creative journey goes! 🌟</h4>
 
