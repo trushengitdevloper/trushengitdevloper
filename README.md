@@ -22,7 +22,7 @@ where my creative journey goes! 🌟</h4>
 
 - 👨‍💻JAVA Project [🎥🎟️ Any Time Movie Ticket (ATMT) Project 🎥🎟️](https://github.com/trushengitdevloper/ATMT-in-java)
 
-- Graphic Designs🎨 [🎨🌟Trushen's Creative Universe 🌌 Explore 🎒 the Vibrant World 🌍 of Graphic Design! 🎨](https://github.com/trushengitdevloper/Designs)
+- Graphic Designs[🎨🌟Trushen's Creative Universe 🌌 Explore 🎒 the Vibrant World 🌍 of Graphic Design! 🎨](https://github.com/trushengitdevloper/Designs)
 
 - 👨‍💻 All of my projects are available at [https://main--solanki-trushen.netlify.app/](https://main--solanki-trushen.netlify.app/)
 
