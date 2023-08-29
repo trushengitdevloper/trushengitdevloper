@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOLANKI TRUSHEN</h1>
-<h3 align="center">>Hey there! 👋 I'm a student from India with a bunch of cool skills 🎨💻.<br></h3>
+<h3 align="center">Hey there! 👋 I'm a student from India with a bunch of cool skills 🎨💻.<br></h3>
 <h4>
   
 * I can do graphic design, make logos, create user-friendly stuff for websites, and build the front part of websites 🌐. <br>
